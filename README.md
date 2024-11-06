@@ -1,6 +1,6 @@
-<img src="https://github.com/bishtkartikey/Heart-Disease-Prediction-Model/blob/main/Heart%20Disease%20Prediction.jpg?raw=true" alt="Heart Disease Prediction" width="1200" height="500" />
+<img src="https://github.com/Kirtika290/HEART_DISEASE_PREDICTING_MODEL_/blob/main/HEART%20image.jpg?raw=true" alt="Heart Disease Prediction" width="1200" height="500" />
 
-#<h1 style="font-size: 50px;"> HEART_DISEASE_PREDICTING_MODEL_</h1>
+<h1 style="font-size: 50px;"> HEART_DISEASE_PREDICTING_MODEL_</h1>
 
 ## 1. Introduction
 The Heart Disease Prediction Model is a machine learning project that predicts the likelihood of heart disease based on various health indicators. Heart disease is one of the leading causes of death worldwide, making early detection crucial for preventive care. By analyzing patient data, this model aims to help healthcare providers identify high-risk patients, ultimately improving healthcare outcomes.
